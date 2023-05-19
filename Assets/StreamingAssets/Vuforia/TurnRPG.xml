@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="joia" size="1.000000 1.000000" />
+    <ImageTarget name="pocao" size="1.000000 1.000000" />
+    <ImageTarget name="escudo" size="1.000000 1.000000" />
+    <ImageTarget name="espada" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
